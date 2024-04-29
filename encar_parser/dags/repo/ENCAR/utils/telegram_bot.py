@@ -6,7 +6,7 @@ import aiohttp
 logging.getLogger('asyncio').setLevel(logging.CRITICAL)
 # logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '6575166622:AAEtyFTwYYkLd5JQzjNcqnHZ7IVUZEM4pMs'
+API_TOKEN = ''
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
