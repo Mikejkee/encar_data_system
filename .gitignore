@@ -118,4 +118,4 @@ media/
 # !**/migrations/__init__.py
 
 local_settings.py
-/!additional/
+/!encar_additional/
